@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "title": "Hello JS",
+      "artist": "Madonna",
+      "year": "2006",
+      "img": "image url",
+      "price": "50",
+      "id": "1638303662805"
+    }
+  ]
+}
